@@ -1,6 +1,9 @@
 Project Remont by native PHP
+
 remont_db - DB dump
+
 logindata.php - config for DB, DB server, user, password etc
+
 Test users/passwords:
     admin/admin
     buyer/buyer
