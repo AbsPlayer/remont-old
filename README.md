@@ -10,7 +10,7 @@ Test users/passwords:
     
     buyer/buyer
     
-admin - this user has admin permissions
+admin - this user has admin permissions. 
 buyer - this user has buyer permissions (he can't add unit for product)
 
 There is a possibility to change images only for products.
