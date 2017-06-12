@@ -5,7 +5,9 @@ remont_db - DB dump
 logindata.php - config for DB, DB server, user, password etc
 
 Test users/passwords:
+
     admin/admin
+    
     buyer/buyer
     
 admin - this user has admin permissions
